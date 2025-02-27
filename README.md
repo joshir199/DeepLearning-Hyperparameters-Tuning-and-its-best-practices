@@ -35,5 +35,9 @@ There are different forms of Normalization layers which can be used instead of d
 
 With the increase in complexity of Deep Learning model, Group Normalization techniques are now getting popular.
 
+Group Normalisation has been proved to be independent of batch size changes while Batch Normalisation is very much dependent on it.
+
 Other factor is use of different set of other hyperparameters like Batch size and learning rate also influence use of specific Normalization method.
+
+Group Normalisation Reference : ![here](https://youtu.be/m3TN9FFmqsI?si=YgVGZRQW7SnYoi3h)
 
